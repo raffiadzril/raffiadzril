@@ -51,22 +51,21 @@
 ---
 
 ## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaffiAdzril&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiAdzril&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" height="180em" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raffiadzril&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffiadzril&theme=radical" alt="GitHub Streak" />
-</p>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaffiAdzril&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&currStreakLabel=5BCDEC&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
+</div>
 
 ## 📫 Let's Connect
 
-* 🌐 [LinkedIn](https://www.linkedin.com/in/raffiadzril)
-* ✉️ raffiadzril\[at]email.com
-* 📝 [Check out my portfolio or projects here](#)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/raffiadzrilalfaiz)
+* ✉️ raffiadzril0612@gmail.com
 
----
 
 > *“Technology and creativity are tools to preserve identity and shape the future.”*
 > — *Raffi Adzril Alfaiz*
