@@ -1,9 +1,12 @@
-Tentu! Berikut README lengkap dengan badge-badge yang relevan berdasarkan keahlian dan minat kamu, sehingga kamu tinggal **copy-paste** langsung ke profil GitHub-mu.
 
----
+<!-- Running Text -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    👋 Welcome to my GitHub! I'm Raffi Adzril Alfaiz – Let's build, learn, and create together. 🚀
+  </marquee>
+</p>
 
-````markdown
-# Hi there! 👋 I'm Raffi Adzril Alfaiz
+# Hi there! 👋 I'm Zrill
 
 [![Profile Views](https://komarev.com/ghpvc/?username=raffiadzril&color=blueviolet)](https://github.com/raffiadzril)
 [![Followers](https://img.shields.io/github/followers/raffiadzril?label=Follow&style=social)](https://github.com/raffiadzril)
@@ -64,9 +67,3 @@ Tentu! Berikut README lengkap dengan badge-badge yang relevan berdasarkan keahli
 > *“Technology and creativity are tools to preserve identity and shape the future.”*
 > — *Raffi Adzril Alfaiz*
 
-```
-
----
-
-Jika kamu punya username LinkedIn atau website portofolio sebenarnya, tinggal ganti placeholder-nya. Kalau kamu juga ingin menambahkan bagian **Pinned Projects** atau **Achievements**, tinggal beri tahu saja!
-```
