@@ -17,7 +17,7 @@
 [![Languages](https://img.shields.io/badge/Code-Python%20%7C%20C++%20%7C%20JS-informational?style=flat&logo=codeforces&logoColor=white&color=success)](#)
 [![Tools](https://img.shields.io/badge/Tools-VS%20Code%20%7C%20Visual%20Studio%20%7C%20Figma-orange)](#)
 [![Design Lead](https://img.shields.io/badge/Role-Head%20of%20Design-blueviolet)](#)
-[![Mentor](https://img.shields.io/badge/Activity-Mentor%20at%20WORM-blue)](#)
+
 
 🎓 A Computer Science student at Universitas Pendidikan Indonesia  
 💡 Passionate about design, data, and impactful technology  
